@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SuperMarket</string>
+    <string name="dangnhap">Name</string>
+    <string name="matkhau">Password</string>
+    <string name="Main_Login">Login</string>
+    <string name="monan">Món ăn</string>
+    <string name="delete">Delete</string>
+    <string name="food">Thức Ăn</string>
+    <string name="update">Update</string>
+    <string name="menhgia">Mệnh giá</string>
+    <string name="cost">Giá</string>
+    <string name="ngaygio">Thời gian</string>
+    <string name="damua">Đã mua</string>
+    <string name="add">Thêm</string>
+    <string name="Remember">Remember me !!!</string>
+    <string name="themkhoanchi">Thêm Khoản Chi</string>
+    <string name="tenmon">Tên Món</string>
+    <string name="giatien">Đơn Giá</string>
+    <string name="them">Thêm</string>
+    <string name="huy">Hủy</string>
+    <string name="sodu">Số Dư</string>
+    <string name="nhap">Nhập</string>
+</resources>
